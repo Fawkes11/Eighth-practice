@@ -4,13 +4,6 @@
     box-sizing: border-box;
     
 }
-.imgback{
-    opacity: 0.4;
-    position: absolute;
-    top: 0;
-    display: none;
-
-}
 body{
     height: 100vh;
     display: flex;
